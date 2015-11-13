@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>首页</title>
+<title>首页-head232</title>
 
 
 <!--装载文件-->
@@ -138,6 +138,7 @@
 </head>
 
 <body>
+	<div>add</div>
 	<div id="fileQueue"></div>
 	<input type="file" name="uploadify" id="uploadify" />
 	<p>
