@@ -138,6 +138,7 @@
 </head>
 
 <body>
+	<h1>this is simple upload demo</h1>
 	<div id="fileQueue"></div>
 	<input type="file" name="uploadify" id="uploadify" />
 	<p>
