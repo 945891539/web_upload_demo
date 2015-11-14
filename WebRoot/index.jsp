@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>首页-head232</title>
+<title>首页-head</title>
 
 
 <!--装载文件-->
